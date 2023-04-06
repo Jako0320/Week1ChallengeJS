@@ -33,8 +33,7 @@ h3 {/*Title 3 parameters*/
     text-align: center;
 }    
 
-h4,
-ul {/*Common font size parameter*/
+h4 {/*Font size parameter*/
     font-size: 20px;
 }
 
@@ -51,7 +50,7 @@ aside {/*Common font parameter*/
 }    
 
 ul {/*List styling*/
-    font-size: 22px;
+    font-size: 24px;
     padding-top: 15px;    
     list-style-type: none;
 }    
