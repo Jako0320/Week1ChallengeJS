@@ -28,6 +28,7 @@ h2 {/*Title 2 font size*/
 }    
 
 h3 {/*Title 3 parameters*/
+    font-size: 28px;
     margin-bottom: 10px;
     text-align: center;
 }    
@@ -63,6 +64,7 @@ header,
 article,
 section {/*Common color parameter*/
     color: #ffffff;
+    line-height: 1.5;
 }
 
 a {/*Removing decoration from hyperlinks*/
@@ -70,7 +72,7 @@ a {/*Removing decoration from hyperlinks*/
 }        
 
 p {/*Font size for text*/
-    font-size: 16px;
+    font-size: 20px;
 }    
 
 header,
