@@ -10,76 +10,76 @@ body {/*Determines the color of the page background*/
 
 h1,
 li,
-main {
+main {/*Common display parameter*/
     display: inline-block;
 }
 
-h1 {
+h1 {/*Title one font size*/
         font-size: 48px;
 }    
 
 h2,
-article {
+article {/*Common margin parameter*/
     margin-bottom: 20px;
 }
 
-h2 {
+h2 {/*Title 2 font size*/
     font-size: 36px;
 }    
 
-h3 {
+h3 {/*Title 3 parameters*/
     margin-bottom: 10px;
     text-align: center;
 }    
 
 h4,
-ul {
+ul {/*Common font size parameter*/
     font-size: 20px;
 }
 
 ul,
-aside {
+aside {/*Common parameters*/
     margin-right: 20px;
     float: right;
 }
 
 ul,
 article,
-aside {
+aside {/*Common font parameter*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }    
 
-ul {
+ul {/*List styling*/
     padding-top: 15px;    
     list-style-type: none;
 }    
 
-li {    
+li {/*line parameter*/
     margin-left: 25px;
 }    
 
 a,
 header,
 article,
-section {
+section {/*Common color parameter*/
     color: #ffffff;
 }
 
-a {
+a {/*Removing decoration from hyperlinks*/
     text-decoration: none;
 }        
 
-p {
+p {/*Font size for text*/
     font-size: 16px;
 }    
 
 header,
-footer {
+footer {/*Common font parameter*/
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
 }    
 
 header,
-aside {
+aside {/*Common parameter*/
     padding: 20px;
 }
 
@@ -87,7 +87,7 @@ header {/*Determines the style, colors and padding of the header*/
     background-color: #2a607c;
 }    
 
-footer {
+footer {/*Footer parameters*/
     padding: 30px;
     clear: both;
     text-align: center;
@@ -102,44 +102,44 @@ figure {/*Background image properties*/
     background-position: center;
 }    
 
-main {
+main {/*Main specific parameters*/
     width: 75%;
     margin-left: 20px;
 }    
 
-article {
+article {/*Article specific parameters*/
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
 }
 
-article img {
+article img {/*Specific image parameter*/
     max-height: 200px;
 }
 
-aside {
+aside {/*Aside specific parameters*/
     clear: both;    
     width: 20%;
     height: 100%;
     background-color: #2589bd;
 }    
 
-section {
+section {/*Section specific parameter*/
     margin-bottom: 32px;
 }
 
-section img {
+section img {/*Specific image parameters*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.float-left {
+.float-left {/*Images going to the left parameter*/
     float: left;
     margin-right: 25px;
 }        
 
-.float-right {
+.float-right {/*Image going to the right parameter*/
     float: right;
     margin-left: 25px;
 }        
