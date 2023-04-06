@@ -84,7 +84,7 @@ aside {/*Common parameter*/
 }
 
 header {/*Determines the style, colors and padding of the header*/
-    background-color: #2a607c;
+    background-color: #275872;
 }    
 
 footer {/*Footer parameters*/
@@ -110,7 +110,7 @@ main {/*Main specific parameters*/
 article {/*Article specific parameters*/
     padding: 50px;
     height: 300px;
-    background-color: #0072bb;
+    background-color: #00578F;
 }
 
 article img {/*Specific image parameter*/
@@ -121,7 +121,7 @@ aside {/*Aside specific parameters*/
     clear: both;    
     width: 20%;
     height: 100%;
-    background-color: #2589bd;
+    background-color: #175777;
 }    
 
 section {/*Section specific parameter*/

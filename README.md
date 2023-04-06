@@ -1,6 +1,6 @@
 # Week1ChallengeJS
 HTML and CSS code optimized for the week 1 challenge by J. Scoffoni
-References and help taken from w3schools and week 1 classes
+References and help taken from w3schools, whocanuse.org and week 1 classes
 
 I struggled to add the background image url into the html for a while, but couldn't find a way to do it properly, so I left it in the CSS.
 
@@ -13,6 +13,8 @@ I didn't originally put detailed comments on the commits, but changed that halfw
 I forgot to add the readme and the screenshot before commiting, so I had to redo it (hence the 6 and 6b annotation).
 
 I annoted each line in the CSS, although I felt sometimes I didn't have much to annotate with.
+
+I changed the backgrounds' contrast levels as little as I could to optimize the contrast for all situations, to have at least AA rate in all categories. 
 
 Toying around with the various elements (and going the wrong way once or twice!) definately has given me a good handle on the various semantic elements and structures we went over in class.
 
