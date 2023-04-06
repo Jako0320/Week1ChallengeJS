@@ -14,7 +14,7 @@ I forgot to add the readme and the screenshot before commiting, so I had to redo
 
 I annoted each line in the CSS, although I felt sometimes I didn't have much to annotate with.
 
-I changed the backgrounds' contrast levels as little as I could to optimize the contrast for all situations, to have at least AA rate in all categories and increased line spacing as well as p and h3 elements font sizes to optimize accessibility while keeping as close a size ratio as possible to the original one. 
+I changed the backgrounds' contrast levels as little as I could to optimize the contrast for all situations, to have at least AA rate in all categories and increased line spacing as well as p, ul and h3 elements font sizes to optimize accessibility while keeping as close a size ratio as possible to the original one. 
 
 Toying around with the various elements (and going the wrong way once or twice!) definately has given me a good handle on the various semantic elements and structures we went over in class.
 
