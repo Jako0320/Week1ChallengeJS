@@ -20,7 +20,7 @@ h1 {
     font-size: 48px;
 }
 
-h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -33,7 +33,7 @@ ul {
     list-style-type: none;
 }
 
-header ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -50,12 +50,10 @@ p {
 figure {
     height: 800px;
     width: 100%;
-    margin-bottom: 100px;
-}
-
-figure img {
-    width: 100%;
-    object-fit: cover;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 .float-left {
